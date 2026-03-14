@@ -1,0 +1,9 @@
+{
+  "name": "Copy of SOLBERUS-VX",
+  "description": "A cyber-defense, AI-driven, Solana-native tri-intelligence engine. Features advanced holographic simulation (Veo), deep strategic analysis (Gemini 3 Pro), and real-time tactical uplinks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
